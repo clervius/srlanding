@@ -5,7 +5,7 @@ module.exports = {
 	development: {
 		db: 'mongodb://localhost/strongRealtors',
 		rootPath: rootPath,
-		port: process.env.PORT || 8888,
+		port: process.env.PORT || 7335,
 		where: 'development - local',
 		secrets: {
 			session: 'strongrealtorsdev'
