@@ -1,0 +1,56 @@
+{
+  "name": "srlanding",
+  "version": "1.0.0",
+  "description": "\"# srlanding\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clervius/srlanding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clervius/srlanding/issues"
+  },
+  "homepage": "https://github.com/clervius/srlanding#readme",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "bower": "^1.7.9",
+    "composable-middleware": "^0.3.0",
+    "compression": "^1.6.2",
+    "cookie-parser": "^1.4.3",
+    "crypto": "0.0.3",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "express-jwt": "^3.4.0",
+    "express-session": "^1.14.0",
+    "forEachAsync": "^3.0.0",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^7.0.1",
+    "lodash": "^4.13.1",
+    "mailchimp": "^1.2.0",
+    "mailchimp-api": "^2.0.7",
+    "metascraper": "^1.0.5",
+    "method-override": "^2.3.6",
+    "moment": "^2.13.0",
+    "mongoose": "^4.5.1",
+    "morgan": "^1.7.0",
+    "nodemailer": "^2.5.0",
+    "nodemon": "^1.9.2",
+    "open-graph-scraper": "^2.2.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "prerender-node": "^2.3.0",
+    "sendgrid": "^3.0.11",
+    "stripe": "^4.7.0",
+    "stylus": "^0.54.5",
+    "youtube-thumbnails": "^1.0.2"
+  }
+}
